@@ -27,7 +27,7 @@ var install_nginx = function(){
 };
 
 var start_nginx = function(){
-  var child = sudo([ 'service', 'ngninx', 'start' ], options);
+  var child = sudo([ 'service', 'nginx', 'start' ], options);
   return new Promise(child_close(child));
 };
 
