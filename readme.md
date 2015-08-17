@@ -1,6 +1,6 @@
 # install-nginx-on-ubuntu
 
-[![NPM](https://nodei.co/npm/install-nginx-on-ubuntu.png)](https://nodei.co/npm/install-nginx-on-ubuntu/)
+Inspired by [Max Ogden's work](https://github.com/maxogden/install-nginx-on-ubuntu), I decided to make my own automated nginx installer.
 
 Installs Nginx on Ubuntu locally. Also starts Nginx as a service.
 
